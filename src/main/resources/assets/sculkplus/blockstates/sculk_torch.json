@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "sculkplus:block/sculk_torch_off"
+    },
+    "lit=true": {
+      "model": "sculkplus:block/sculk_torch"
+    }
+  }
+}
